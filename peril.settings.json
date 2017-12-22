@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "pull_request": "leonhartX/peril-setting@all-prs.ts"
+  },
+  "repos" : {
+    "lcxk/peril-test": {
+      "pull_request": "leonhartX/peril-setting@pr.ts"
+    }
+  }
+}
